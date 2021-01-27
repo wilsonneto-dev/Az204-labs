@@ -22,6 +22,7 @@ Pegar chaves de acesso:
 `az storage account keys list --resource-group ManagedPlatform --account-name imgstor`
 
 A connection string será a key listada preenchida abaixo:
+
 `DefaultEndpointsProtocol=https;AccountName=imgstor;AccountKey={{KEY}};EndpointSuffix=core.windows.net`
 
 Criar o container "images"
