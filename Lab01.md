@@ -1,7 +1,8 @@
 ## Lab: Building a web application on Azure platform as a service offerings
 
 Logar no Azure CLI:
--> az login
+
+`az login`
 
 ---
 
